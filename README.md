@@ -2,4 +2,4 @@
 
 * A simple game of Rock Paper Scissors built using JavaScript, HTML, and CSS.
 
-* Click [here]() to play!# Rock-Paper-Scissors
+* Click [here](https://lincolnyouree.github.io/Rock-Paper-Scissors/) to play!
